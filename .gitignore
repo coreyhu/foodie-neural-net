@@ -1,0 +1,6 @@
+.DS_STORE
+tf_files/
+tmp/
+.ipynb_checkpoints/
+tensorflow/
+datasets/
